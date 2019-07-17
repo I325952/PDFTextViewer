@@ -76,4 +76,5 @@ public class ChannelURL {
 		api.PdfTextextractionService("URL", "OC7", "715", "0090004072", "BILLING_DOCUMENT", "1", "90004682");
 
 	}
+
 }
