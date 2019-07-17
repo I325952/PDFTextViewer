@@ -73,5 +73,5 @@ public class ChannelEmail {
 				"90007854", "", "Zahlungsbedingungen");
 
 	}
-
+	
 }
